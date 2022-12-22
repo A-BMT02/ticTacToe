@@ -1,2 +1,2 @@
-# ticTacToe
+# TicTacToe
 Artificial Assignment 2
